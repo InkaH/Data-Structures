@@ -1,2 +1,3 @@
 Pluralsight course work
-Implementing and understanding data structures in Java
+
+from course "Implementing and understanding data structures in Java"
